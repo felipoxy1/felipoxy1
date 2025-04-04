@@ -105,13 +105,22 @@ o que me proporcionou uma visão prática das necessidades dos clientes e aprimo
   title="BOOTSTRAP"
   width="30px"
   style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+/>
+
+<img
+  align="left"
+  alt="JQUERY"
+  title="JQUERY"
+  width="30px"
+  style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
 />
 
 <img 
   align="left"
-  alt="BOOTSTRAP"
-  title="BOOTSTRAP"
+  alt="GIT"
+  title="GIT"
   width="30px"
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
