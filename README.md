@@ -117,6 +117,9 @@ o que me proporcionou uma visão prática das necessidades dos clientes e aprimo
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
+<br/>
+<br/>
+
 ### Minhas estatisticas
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipoxy1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
