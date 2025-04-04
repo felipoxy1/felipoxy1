@@ -29,6 +29,24 @@ o que me proporcionou uma visão prática das necessidades dos clientes e aprimo
 
 <img 
   align="left"
+  alt="JAVASCRIPT"
+  title="JAVASCRIPT"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+
+<img 
+  align="left"
+  alt="TYPESCRIPT"
+  title="TYPESCRIPT"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+
+<img 
+  align="left"
   alt="REACT"
   title="REACT"
   width="30px"
@@ -90,4 +108,16 @@ o que me proporcionou uma visão prática das necessidades dos clientes e aprimo
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
 />
 
+<img 
+  align="left"
+  alt="BOOTSTRAP"
+  title="BOOTSTRAP"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
 
+### Minhas estatisticas
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipoxy1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipoxy1&layout=compact&langs_count=7&theme=dracula"/>
