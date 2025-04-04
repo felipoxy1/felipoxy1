@@ -101,8 +101,8 @@ o que me proporcionou uma visão prática das necessidades dos clientes e aprimo
 
 <img
   align="left"
-  alt="BOOTSTRAP"
-  title="BOOTSTRAP"
+  alt="TAILWIND"
+  title="TAILWIND"
   width="30px"
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
