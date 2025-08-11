@@ -2,10 +2,15 @@
 
 **`Desenvolvedor Front-end`**
 
-Me chamo Luiz Felipe, desenvolvedor com 2 ano de experiência em desenvolvimento front-end,
-usando tecnologias como JavaScript, Bootstrap, React, Node, Sass e  Typescript.
-Já trabalhei como freelancer, criando sites para pequenas empresas e familiares, 
-o que me proporcionou uma visão prática das necessidades dos clientes e aprimorou minhas habilidades em desenvolvimento web.
+Sou Luiz Albuquerque, desenvolvedor front-end com 2 anos de experiência em projetos reais, atuando principalmente com JavaScript, TypeScript, React e Redux. Ao longo da minha trajetória, desenvolvi aplicações completas para gestão de processos, controle de dados e experiência do usuário, sempre aplicando boas práticas, organização de código e foco em performance.
+
+Atuei também em uma ONG, onde participei da transição de aplicações de Angular para React, contribuindo para a migração de funcionalidades e melhoria da performance do sistema.
+
+Já participei desde a concepção até a entrega de sistemas, incluindo cadastro e gerenciamento de dados, cálculo automatizado de comissões, usabilidade e manutenção contínua. Atualmente, busco uma oportunidade como Desenvolvedor Front-End Júnior, com interesse em evoluir para posições plenas e aprofundar meus conhecimentos em arquitetura de front-end e testes automatizados.
+
+Meu diferencial está em aprendizagem rápida, visão prática, visão do cliente e adaptação rápida — habilidades que me permitem compreender necessidades, propor soluções eficientes e entregar valor real ao negócio.
+
+
 
 ### Linguagens e Tecnologias
 
