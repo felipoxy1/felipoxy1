@@ -1,16 +1,20 @@
 # 👨🏻‍💻 Luiz Felipe
 
 **`Desenvolvedor Front-end`**
+Desenvolvedor Front-end | Especialista em Ecossistema React & TypeScript
 
-Sou Luiz Albuquerque, desenvolvedor front-end com 2 anos de experiência em projetos reais, atuando principalmente com JavaScript, TypeScript, React e Redux. Ao longo da minha trajetória, desenvolvi aplicações completas para gestão de processos, controle de dados e experiência do usuário, sempre aplicando boas práticas, organização de código e foco em performance.
+Sou um desenvolvedor focado em construir interfaces escaláveis e de alta performance. Com 2 anos de experiência prática, venho transformando regras de negócio em aplicações fluidas utilizando React.js, TypeScript e Redux.
 
-Atuei também em uma ONG, onde participei da transição de aplicações de Angular para React, contribuindo para a migração de funcionalidades e melhoria da performance do sistema.
+Destaques da minha trajetória:
+• Migração Estratégica: Atuei na transição crítica de sistemas legados em Angular para React, otimizando a performance e a manutenibilidade do código.
 
-Já participei desde a concepção até a entrega de sistemas, incluindo cadastro e gerenciamento de dados, cálculo automatizado de comissões, usabilidade e manutenção contínua. Atualmente, busco uma oportunidade como Desenvolvedor Front-End Júnior, com interesse em evoluir para posições plenas e aprofundar meus conhecimentos em arquitetura de front-end e testes automatizados.
+• Sistemas de Gestão: Desenvolvi aplicações completas do zero, desde o gerenciamento de dados complexos até a automação de cálculos de comissões.
 
-Meu diferencial está em aprendizagem rápida, visão prática, visão do cliente e adaptação rápida — habilidades que me permitem compreender necessidades, propor soluções eficientes e entregar valor real ao negócio.
+• Arquitetura e Qualidade: Trabalho com foco em Clean Code, Styled Components e consumo de APIs REST, sempre priorizando a experiência do usuário final.
 
+Busco constantemente aprimorar meus conhecimentos em Testes Automatizados e Arquitetura de Software para entregar soluções cada vez mais robustas.
 
+Stack Principal: JavaScript (ES6+), TypeScript, React, Redux, Sass, Styled Components e Git.
 
 ### Linguagens e Tecnologias
 
